@@ -1,0 +1,28 @@
+C:\Users\NDIAPPINK\AppData\Local\Temporary Projects\TutorLogin\bin\Debug\TutorLogin.exe
+C:\Users\NDIAPPINK\AppData\Local\Temporary Projects\TutorLogin\bin\Debug\TutorLogin.pdb
+C:\Users\NDIAPPINK\AppData\Local\Temporary Projects\TutorLogin\bin\Debug\TutorLogin.xml
+C:\Users\NDIAPPINK\AppData\Local\Temporary Projects\TutorLogin\bin\Debug\Interop.WMPLib.dll
+C:\Users\NDIAPPINK\AppData\Local\Temporary Projects\TutorLogin\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\NDIAPPINK\AppData\Local\Temporary Projects\TutorLogin\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\NDIAPPINK\AppData\Local\Temporary Projects\TutorLogin\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\NDIAPPINK\AppData\Local\Temporary Projects\TutorLogin\obj\x86\Debug\TutorLogin.vbproj.ResolveComReference.cache
+C:\Users\NDIAPPINK\AppData\Local\Temporary Projects\TutorLogin\obj\x86\Debug\TutorLogin.Form1.resources
+C:\Users\NDIAPPINK\AppData\Local\Temporary Projects\TutorLogin\obj\x86\Debug\TutorLogin.Resources.resources
+C:\Users\NDIAPPINK\AppData\Local\Temporary Projects\TutorLogin\obj\x86\Debug\TutorLogin.vbproj.GenerateResource.Cache
+C:\Users\NDIAPPINK\AppData\Local\Temporary Projects\TutorLogin\obj\x86\Debug\TutorLogin.exe
+C:\Users\NDIAPPINK\AppData\Local\Temporary Projects\TutorLogin\obj\x86\Debug\TutorLogin.xml
+C:\Users\NDIAPPINK\AppData\Local\Temporary Projects\TutorLogin\obj\x86\Debug\TutorLogin.pdb
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\TutorLogin\TutorLogin\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\TutorLogin\TutorLogin\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\TutorLogin\TutorLogin\obj\x86\Debug\TutorLogin.vbproj.ResolveComReference.cache
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\TutorLogin\TutorLogin\obj\x86\Debug\TutorLogin.exe
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\TutorLogin\TutorLogin\obj\x86\Debug\TutorLogin.xml
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\TutorLogin\TutorLogin\obj\x86\Debug\TutorLogin.pdb
+C:\Users\NDIAPPINK\Documents\Visual Studio 2010\Projects\TutorLogin\TutorLogin\bin\Debug\TutorLogin.exe
+C:\Users\NDIAPPINK\Documents\Visual Studio 2010\Projects\TutorLogin\TutorLogin\bin\Debug\TutorLogin.pdb
+C:\Users\NDIAPPINK\Documents\Visual Studio 2010\Projects\TutorLogin\TutorLogin\bin\Debug\TutorLogin.xml
+C:\Users\NDIAPPINK\Documents\Visual Studio 2010\Projects\TutorLogin\TutorLogin\bin\Debug\Interop.WMPLib.dll
+C:\Users\NDIAPPINK\Documents\Visual Studio 2010\Projects\TutorLogin\TutorLogin\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\NDIAPPINK\Documents\Visual Studio 2010\Projects\TutorLogin\TutorLogin\obj\x86\Debug\TutorLogin.Form1.resources
+C:\Users\NDIAPPINK\Documents\Visual Studio 2010\Projects\TutorLogin\TutorLogin\obj\x86\Debug\TutorLogin.Resources.resources
+C:\Users\NDIAPPINK\Documents\Visual Studio 2010\Projects\TutorLogin\TutorLogin\obj\x86\Debug\TutorLogin.vbproj.GenerateResource.Cache
